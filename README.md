@@ -1,0 +1,2 @@
+All code and processed data to reproduce the analysis from the artcile "Global Detection of Xenobiotics in Marine Dissolved Organic Matter" is available in the repository.
+The file 20250122_OceanMeta7mergedAbsolutelyFINALqcstuff_1.1.csv which is needed to recreate the plots in Supplementary Figs 2-5 is too large for deposition on GitHub but can be retrieved from Zenodo https://doi.org/10.5281/zenodo.15050165
